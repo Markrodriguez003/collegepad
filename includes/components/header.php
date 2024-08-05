@@ -7,6 +7,7 @@
     <title>CollegePad - Note taker </title>
     <link rel="stylesheet" type="text/css" href="includes/components/style.css" />
     <link rel="stylesheet" type="text/css" href="includes/lib/bootstrap/css/bootstrap.css" media="screen" />
+    <link rel="icon" type="image/x-icon" href="/includes//site.ico">
     <script src="includes/lib/bootstrap/js/bootstrap.bundle.min.js"> </script>
 
 </head>
