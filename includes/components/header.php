@@ -5,17 +5,14 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>CollegePad - Note taker </title>
+    <link rel="stylesheet" type="text/css" href="includes/components/style.css" />
     <link rel="stylesheet" type="text/css" href="includes/lib/bootstrap/css/bootstrap.css" media="screen" />
     <script src="includes/lib/bootstrap/js/bootstrap.bundle.min.js"> </script>
 
 </head>
 
-<body>
-
-
-
-
-    <nav class="navbar fixed-bottom navbar-expand-sm navbar-dark bg-primary">
+<body class="siteBackground">
+    <nav class="navbar fixed-bottom navbar-expand-sm navbar-dark bg-primary box-shadow border-top border-primary-subtle border-5">
         <div class="container-fluid">
             <a class="navbar-brand mr-4" href="#"><img src="includes/assets//logo.png" style="width:34px; margin-right:6px; margin-bottom:4px" />CollegePad</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
@@ -38,5 +35,6 @@
             </div>
         </div>
     </nav>
+
 
     <!-- </div> -->

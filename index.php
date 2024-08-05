@@ -1,5 +1,6 @@
 <?php
 // https://www.youtube.com/watch?v=TIyiuVaEXV4&ab_channel=AUZTutorials
+// graph https://getbootstrap.com/docs/4.0/examples/dashboard/
 
 
 include('includes/database.php');
@@ -52,19 +53,19 @@ include('includes/components/header.php');
 ?>
 <!-- BOOTSTRAP -->
 <!-- <div class="container-fluid bg-primary bg-gradient"> -->
-<div class="container">
-    <div class="jumbotron mt-3">
-        <h1 class="">CollegePad</h1>
-        <p class="lead">An website to write and store your class notes. ✏️</p>
-        <!-- <a class="btn btn-lg btn-primary" href="../../components/navbar/" role="button">View notes &raquo;</a> -->
+
+<div class="container mt-5 p-3 bg-primary text-light box-shadow border border-primary-subtle border-5 rounded-4 loginForm">
+    <div class="mt-3">
+        <img src="includes//assets//card-logos//brain-2235771_640.png" style="width: 25%; height:auto;" class="mx-auto d-block text-center" />
+        <h1 class="text-center display-2 fw-bold"> CollegePad</h1>
+        <p class="lead text-center">An website to write and store your class notes. ✏️</p>
         <hr />
+
     </div>
-    <br />
 
     <!-- FORM -->
-
-
-    <form action="" method="post">
+    <form action="" method="post" class="loginForm">
+        <h3 class="">Log into your account </h3>
 
         <label for="email">Email address</label>
         <input type="email" class="form-control" id="email" name="email" aria-describedby="email" placeholder="Enter email">
@@ -74,14 +75,19 @@ include('includes/components/header.php');
         <input type="password" class="form-control" id="password" placeholder="Password" name="password">
 
         </br>
-        <button type="submit" class="btn btn-primary">Submit</button>
+        <div class="text-center">
+
+            <button type="submit" class="btn btn-success btn-lg">Submit</button>
+        </div>
+        </br>
+        </br>
     </form>
-
-
 </div>
 
 
 <?php
 
+include('includes/components/notebuilder.php');
+include('includes/components/noterepo.php');
 include("includes/components/footer.php");
 ?>
