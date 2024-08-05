@@ -26,10 +26,10 @@
                              </hr>
                              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
                              <div class="d-flex justify-content-between align-items-center">
-                                 <div class="btn-group text-center mx-auto">
-                                     <button type="button" class="btn btn-lg btn-outline-light ">View</button>
-                                     <button type="button" class="btn btn-lg btn-outline-warning text-light">Edit</button>
-                                     <button type="button" class="btn btn-lg btn-outline-danger text-light">Delete</button>
+                             <div class="btn-group text-center mx-auto gap-3">
+                                     <button type="button" class="btn btn-lg btn-success ">View</button>
+                                     <button type="button" class="btn btn-lg btn-warning text-light">Edit</button>
+                                     <button type="button" class="btn btn-lg btn-danger text-light">Delete</button>
                                  </div>
                                  <!-- <small class="text-muted">9 mins</small> -->
                              </div>
@@ -47,10 +47,10 @@
                              </hr>
                              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
                              <div class="d-flex justify-content-between align-items-center">
-                                 <div class="btn-group text-center mx-auto">
-                                     <button type="button" class="btn btn-lg btn-outline-light ">View</button>
-                                     <button type="button" class="btn btn-lg btn-outline-warning text-light">Edit</button>
-                                     <button type="button" class="btn btn-lg btn-outline-danger text-light">Delete</button>
+                                 <div class="btn-group text-center mx-auto gap-3">
+                                     <button type="button" class="btn btn-lg btn-success ">View</button>
+                                     <button type="button" class="btn btn-lg btn-warning text-light">Edit</button>
+                                     <button type="button" class="btn btn-lg btn-danger text-light">Delete</button>
                                  </div>
                                  <!-- <small class="text-muted">9 mins</small> -->
                              </div>
@@ -68,10 +68,10 @@
                              </hr>
                              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
                              <div class="d-flex justify-content-between align-items-center">
-                                 <div class="btn-group text-center mx-auto">
-                                     <button type="button" class="btn btn-lg btn-outline-light ">View</button>
-                                     <button type="button" class="btn btn-lg btn-outline-warning text-light">Edit</button>
-                                     <button type="button" class="btn btn-lg btn-outline-danger text-light">Delete</button>
+                             <div class="btn-group text-center mx-auto gap-3">
+                                     <button type="button" class="btn btn-lg btn-success ">View</button>
+                                     <button type="button" class="btn btn-lg btn-warning text-light">Edit</button>
+                                     <button type="button" class="btn btn-lg btn-danger text-light">Delete</button>
                                  </div>
                                  <!-- <small class="text-muted">9 mins</small> -->
                              </div>
@@ -89,10 +89,10 @@
                              </hr>
                              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
                              <div class="d-flex justify-content-between align-items-center">
-                                 <div class="btn-group text-center mx-auto">
-                                     <button type="button" class="btn btn-lg btn-outline-light ">View</button>
-                                     <button type="button" class="btn btn-lg btn-outline-warning text-light">Edit</button>
-                                     <button type="button" class="btn btn-lg btn-outline-danger text-light">Delete</button>
+                             <div class="btn-group text-center mx-auto gap-3">
+                                     <button type="button" class="btn btn-lg btn-success ">View</button>
+                                     <button type="button" class="btn btn-lg btn-warning text-light">Edit</button>
+                                     <button type="button" class="btn btn-lg btn-danger text-light">Delete</button>
                                  </div>
                                  <!-- <small class="text-muted">9 mins</small> -->
                              </div>
@@ -110,10 +110,10 @@
                              </hr>
                              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
                              <div class="d-flex justify-content-between align-items-center">
-                                 <div class="btn-group text-center mx-auto">
-                                     <button type="button" class="btn btn-lg btn-outline-light ">View</button>
-                                     <button type="button" class="btn btn-lg btn-outline-warning text-light">Edit</button>
-                                     <button type="button" class="btn btn-lg btn-outline-danger text-light">Delete</button>
+                             <div class="btn-group text-center mx-auto gap-3">
+                                     <button type="button" class="btn btn-lg btn-success ">View</button>
+                                     <button type="button" class="btn btn-lg btn-warning text-light">Edit</button>
+                                     <button type="button" class="btn btn-lg btn-danger text-light">Delete</button>
                                  </div>
                                  <!-- <small class="text-muted">9 mins</small> -->
                              </div>
@@ -131,10 +131,10 @@
                              </hr>
                              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
                              <div class="d-flex justify-content-between align-items-center">
-                                 <div class="btn-group text-center mx-auto">
-                                     <button type="button" class="btn btn-lg btn-outline-light ">View</button>
-                                     <button type="button" class="btn btn-lg btn-outline-warning text-light">Edit</button>
-                                     <button type="button" class="btn btn-lg btn-outline-danger text-light">Delete</button>
+                             <div class="btn-group text-center mx-auto gap-3">
+                                     <button type="button" class="btn btn-lg btn-success ">View</button>
+                                     <button type="button" class="btn btn-lg btn-warning text-light">Edit</button>
+                                     <button type="button" class="btn btn-lg btn-danger text-light">Delete</button>
                                  </div>
                                  <!-- <small class="text-muted">9 mins</small> -->
                              </div>
